@@ -4,20 +4,6 @@
   <strong>Analyze auction house data from all EU servers in <em>World of Warcraft</em> to find undervalued items and maximize profits!</strong>
 </p>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#goals">Goals</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#configuration">Configuration</a> •
-  <a href="#development">Development</a> •
-  <a href="#technologies-used">Technologies Used</a> •
-  <a href="#license">License</a> •
-  <a href="#contact">Contact</a>
-</p>
-
----
-
 <h2 id="features">✨ Features</h2>
 <ul>
   <li><strong>Auction Data Aggregation</strong>: Collects and processes auction house data from all EU servers.</li>
