@@ -1,7 +1,7 @@
 <h1 align="center">WoW Auction Analyzer</h1>
 
 <p align="center">
-  <strong>Analyze auction house data from all EU servers in <em>World of Warcraft</em> to find undervalued items and maximize profits!</strong>
+  <strong>Analyze auction house data from all EU servers in <em>World of Warcraft</em> to find undervalued items!</strong>
 </p>
 
 <h2 id="features">✨ Features</h2>
